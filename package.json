@@ -1,0 +1,24 @@
+{
+  "name": "2020-purgecss",
+  "version": "1.0.0",
+  "description": "CodeGrid「[CSSを軽く保つ、PurgeCSS](https://www.codegrid.net/series/2020-purgecss)」のサンプルです。",
+  "scripts": {
+    "start": "eleventy --serve",
+    "build": "eleventy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codegrid/2020-purgecss.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codegrid/2020-purgecss/issues"
+  },
+  "homepage": "https://github.com/codegrid/2020-purgecss#readme",
+  "private": true,
+  "dependencies": {},
+  "devDependencies": {
+    "@11ty/eleventy": "^0.11.1",
+    "purgecss": "^4.0.0"
+  }
+}
